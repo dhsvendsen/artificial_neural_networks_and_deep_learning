@@ -6,8 +6,11 @@ This course is an introduction to Deep Learning. It motivates neural networks fo
 
 1. Open a terminal/console on your computer.
 2. Navigate to the directory where you keep the folder for this course
-3. Run `git clone https://github.com/ulfaslak/artificial_neural_networks_and_deep_learning`
+3. Run `git clone https://github.com/dhsvendsen/artificial_neural_networks_and_deep_learning`
 
 Now you have all the course files on your computer. When I update the course material (and I do every now and then) you can get the newest version of all the files by executing `git pull origin master` from inside the course folder in your terminal/console.
 
 **Important**: All course information is posted on the [wiki](https://github.com/ulfaslak/artificial_neural_networks_and_deep_learning/wiki).
+
+#### Acknowledgements
+This course material is based on the fantastic work of [Ulf Aslak](https://github.com/ulfaslak)
